@@ -53,11 +53,6 @@
 
 ---
 
-## 🐍 Snake animatsiyasi
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Muhammadamin2911/Muhammadamin2911/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 ---
 
@@ -68,4 +63,3 @@
 
 ---
 
-> Ushbu profil zamonaviy va minimalist ko‘rinishda tayyorlandi. Agar yana qo‘shimcha effektlar kerak bo‘lsa, bemalol ayta olasan! 🚀

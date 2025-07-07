@@ -56,7 +56,7 @@
 ## 🐍 Snake animatsiyasi
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammadamin2911/Muhammadamin2911/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Muhammadamin2911/Muhammadamin2911/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
